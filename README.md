@@ -9,7 +9,7 @@ Projeto desenvolvido para orquestração de fluxos de trabalho serverless utiliz
 - Arquitetura Serverless
 
 ## 🖼️ Visualização do Fluxo
-
+![Fluxo de Pedidos](stepfunctions_graph.png)
 
 
 
